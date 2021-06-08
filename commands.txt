@@ -1,0 +1,7 @@
+(gcc file.c): It compiles the .c file
+
+(gcc *.c): It compiles all .c files
+
+(gcc *c -Wall -Werror -Wextra): It shows all errors and warnings
+
+(./a.out): It executes the program
